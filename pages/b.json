@@ -1,0 +1,71 @@
+{
+  "name": "b",
+  "type": "page",
+  "url": "/b",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "Radio Button",
+      "nodeName": "bln-radio-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "wd3KBo"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "Pagination",
+      "nodeName": "bln-pagination",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "j7fJGn"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ]
+}
