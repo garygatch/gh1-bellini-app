@@ -226,6 +226,33 @@
       "comments": "",
       "type": "custom-component",
       "expressions": []
+    },
+    {
+      "name": "test-sani1",
+      "nodeName": "test-sani1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "cEI4gs"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
     }
   ]
 }
